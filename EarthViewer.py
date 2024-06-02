@@ -12,21 +12,21 @@ import imageio
 
 text = """
 INSTRUCTIONS:
-1. The year must be a 4 digit number. (ex: 20xx)
+1. The year must be a 4-digit number. (ex: 20xx)
 2. The year must be from 2015 to 2024
-3. The month must be a 2 digit number. (ex: 02) for february
+3. The month must be a 2-digit number. (ex: 02) for February
 4. The month must be between 01 to 12
-5. The day must be a 2 digit number. (ex: 02)
+5. The day must be a 2-digit number. (ex: 02)
 6. The day must be between 01 to the max number of days in a month
-7. Do not enter Alphabets
+7. Do not enter alphabets
 
 WARNING:
-DO NOT COPY MY CODE AND NOT GIVE CREDIT AS IT IS VERY BAD TO STEAL CODE!
+PLEASE GIVE CREDIT IF CODE IS USED
 
 CREDITS:
 API: NASA
-PROGRAMMER: Akhilesh Gopan
-IDEA BY: Akhilesh Gopan
+PROGRAMMER: EpicSpaceFan
+IDEA BY: EpicSpaceFan
 """
 
 print(text)
