@@ -1,4 +1,4 @@
-#ALL CODE BY AKHILESH GOPAN
+#ALL CODE BY EpicSpaceFan
 #CREDITS TO NASA FOR API
 import time
 import requests
