@@ -188,7 +188,7 @@ def process_frame(frame):
 
 
 if __name__ == "__main__":
-    api_key = '94Hn7vK7B1vHM8vjdNYG8C1TnmPXdlBjZBQEYIdB'
+    api_key = 'Your API key' #Replace 'Your API key' with your API key
 
     image_urls = get_epic_imagery(date, api_key=api_key)
 
